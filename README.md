@@ -14,91 +14,51 @@ Specialized in building explainable, ethical, and inclusive AI systems with a st
 
 ---
 
-### 🔹 Core Competencies
+## 🔧 Core Competencies
 
-- 🤖 **LLMs & Text-Based Generative AI**
-  - End-to-end chatbot development using Hugging Face Transformers and LangChain
-  - Fine-tuning of transformer models (GPT, BERT, custom LLMs) for semantic search, document QA, and summarization
-  - Retrieval-Augmented Generation (RAG) using LangChain, FAISS, Pinecone, and custom embedding pipelines
-  - Prompt engineering for zero-shot and instruction-based LLM tasks
-  - Developed multilingual and low-resource LLMs (e.g., Angika GPT) for regional translation and content generation
-  - Integrated LLM APIs with FastAPI/Flask for scalable deployment in production environments
-
+- 🤖 **LLMs & Generative AI**
+  - End-to-end chatbot and document QA system development using Hugging Face Transformers, LangChain, and custom LLMs
+  - Retrieval-Augmented Generation (RAG) pipelines using FAISS, Pinecone, and embedding stores
+  - Prompt engineering for zero-shot, instruction-based, and multilingual LLM applications
+  - Low-resource language model development (e.g., Angika GPT) for regional translation and content generation
+  - Scalable deployment of LLM APIs with FastAPI and Flask
 
 - 📚 **Natural Language Processing (NLP)**
-  - Named Entity Recognition (NER), Sentiment Analysis, Semantic Search, Text Classification
-  - Translation systems for low-resource Indian languages using custom transformer models
-  - Multilingual and bilingual NLP pipelines supporting domain-specific content generation
-  - Fine-tuning transformer architectures (e.g., BERT, MarianMT) for translation, QA, and summarization
-  - Built instruction-based LLMs and regional models like Angika GPT for real-time, human-like interactions
-  - NLP pipelines using Hugging Face Transformers, spaCy, NLTK, and custom tokenizers
-
+  - NER, Sentiment Analysis, Semantic Search, and Text Classification using transformer-based architectures
+  - Translation systems for multilingual and low-resource Indian languages
+  - Fine-tuned models for summarization, question answering, and domain-specific content generation
+  - Custom NLP pipelines built using Hugging Face, spaCy, and NLTK
 
 - 📈 **Machine Learning & Forecasting**
-  - Built models for time-series forecasting, resource planning, and risk prediction using ARIMA, XGBoost, and LSTM
-  - Applied advanced feature engineering, hyperparameter tuning, and ensemble techniques to improve model accuracy
-  - Leveraged scikit-learn, PyTorch, and custom ML pipelines for end-to-end automation and deployment
-  - Integrated Explainable AI (XAI) methods using SHAP and LIME for interpretability, feature importance, and bias mitigation
-  - Focused on model fairness, compliance, and transparent decision-making for high-stakes financial and operational systems
+  - Forecasting and risk modeling using ARIMA, XGBoost, and LSTM
+  - Ensemble learning, advanced feature engineering, and hyperparameter optimization
+  - Model interpretability and fairness via Explainable AI techniques (SHAP, LIME)
+  - Full lifecycle ML pipeline implementation with scikit-learn and PyTorch
 
+- 🎥 **Computer Vision & Generative AI**
+  - Object detection, segmentation, OCR, and surveillance-based anomaly detection using YOLO, SAM, SegFormer, and OpenCV
+  - Built generative pipelines for Text-to-Image, Image-to-Image, and Image-to-Video using Diffusion Models, DCGANs, and ControlNet
+  - Face image encryption and security through GAN-based adversarial training
+  - Applied and experimented with Large Vision Models (LVMs) like Florence and SegFormer
 
-- ⚙️ **Deployment & MLOps**
-  - Built modular REST APIs using Flask, FastAPI, and Streamlit for real-time model inference
-  - Packaged and served models using Pickle, Hugging Face Hub, and custom Python scripts
-  - Automated deployment pipelines with Git, GitHub, and GitLab for version control and reproducibility
-  - Designed secure, scalable model workflows for on-premise and cloud-agnostic environments
+- ⚙️ **MLOps & Deployment**
+  - Designed and deployed modular ML APIs using Flask, FastAPI, and Streamlit
+  - Model packaging with Pickle, Hugging Face Hub, and CI/CD pipelines via GitHub and GitLab
+  - Experience with cloud-agnostic and secure on-prem enterprise deployments
+  - Version control, reproducibility, and lifecycle tracking using Git-based workflows
 
----
+- 📊 **Analytics & Data Engineering**
+  - Data preprocessing, transformation, and integration from SQL, MySQL, and DB2
+  - Advanced analytics including regression, hypothesis testing, and A/B testing
+  - Visualization using Matplotlib, Seaborn, Plotly, and Power BI for decision support
 
-### 🔹 Advanced Computer Vision & Generative AI
+- 👥 **Leadership & Agile Delivery**
+  - Agile/Scrum-based project management with JIRA and Confluence
+  - Sprint planning, roadmap building, stakeholder communication
+  - Led globally distributed teams across delivery lifecycles from PoC to production
+  - Mentored engineers on Python, ML, NLP, and deployment standards
+  - Translating business goals into scalable and interpretable AI solutions
 
-- 🧠 **Computer Vision & Detection**  
-  - Object detection and segmentation using **YOLO**, **SAM (Segment Anything Model)**, and **SegFormer**  
-  - OCR-based invoice and cheque automation using **OpenCV** and **Tesseract**  
-  - Image annotation, edge detection, and anomaly tracking in surveillance and industrial systems  
-  - Used **Florence (LVM)** and traditional pipelines to build interpretable, scalable CV solutions
-
-- 🎨 **Generative AI for Visual Intelligence**  
-  - Built multimodal generation workflows: **Text-to-Image**, **Image-to-Image**, **Image-to-Video** using **Diffusion Models**, **ControlNet**, and **DCGANs**  
-  - Developed secure face encryption pipeline using **GAN-based adversarial training** (M.Tech research)  
-  - Applied **OpenCV** for frame-wise image processing, red-zone tracking, and heat map generation  
-  - Ongoing experimentation with **Large Vision Models (LVMs)** for intelligent perception, medical imaging, and design automation
-
-
----
-
-## 🛠️ Key Skills & Expertise
-
-### 🤖 AI/ML & Deep Learning
-- Supervised/Unsupervised Learning, Predictive Modeling, Time Series Forecasting  
-- CNNs, RNNs, Transformers, Transfer Learning, Diffusion, GANs  
-- SHAP, LIME for Explainable AI  
-- Random Forest, Gradient Boosting, Stacking, Ensemble Techniques  
-- Anomaly Detection, K-Means, DBSCAN, PCA, t-SNE
-
-### 💬 NLP & Prompt Engineering
-- Chatbots, Sentiment Analysis, NER, Language Translation  
-- Prompt Engineering for LLMs (GPT, BERT, custom models)  
-- RAG pipelines with LangChain, vector DBs (FAISS/Pinecone)  
-- Hugging Face, spaCy, NLTK-based NLP pipelines
-
-### 🐍 Python & Data Handling
-- Python (Pandas, NumPy, PyTorch, Keras, XGBoost, Flask)  
-- SQL, MySQL, DB2 | Git & GitHub | Data cleaning & preprocessing  
-- Deployment using Flask, Hugging Face, Streamlit, Pickle
-
-### 📊 Analytics & Visualization
-- Statistical Modeling: Hypothesis Testing, A/B Testing, Regression  
-- Plotting & Dashboards: Matplotlib, Seaborn, Plotly, Power BI
-
-### 🎨 Generative AI & Automation
-- GANs, Diffusion Models, OCR + NLP document pipelines  
-- AI-driven workflow automation
-
-### 🧑‍💼 Leadership & Delivery
-- Agile, Scrum, JIRA, Confluence  
-- Sprint planning, roadmap building, stakeholder communication  
-- Mentoring engineers in AI/ML best practices
 
 ---
 
@@ -159,13 +119,7 @@ Built a predictive alert dashboard with real-time updates, anomaly detection, an
 
 ---
 
-## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rajkumaar123/)  
-- 📧 Email: er.rajkumaar@gmail.com  
-- 📝 Resume: *(Available on request)*
-
----
 
 > “AI is not just about intelligence — it's about accessibility, ethics, and trust-driven innovation.”  
 — Raj Kumar
