@@ -82,11 +82,12 @@ ML model predicting story points, impacted components, and risk levels using his
 ### 🔹 Smart Invoice Query Assistant (RAG + LangChain)
 Real-time assistant using LangChain + RAG for invoice-related queries. Integrated document loaders, chunking, embeddings, and vector search for fast, human-like responses. Included intent detection and adaptive learning.
 
-### 🔹 Thermal Video Red Zone Detection and Alerting System
-A computer vision-based alert system that analyzes thermal or surveillance videos to detect unusually high heat zones. The solution tracks red intensity, marks critical areas, logs alert times, and visualizes trends to support early detection of potential fire or hazard events. Designed for industrial safety, environmental monitoring, and operational risk reduction. Also created a script to simulate synthetic thermal images for testing.
+### 🔹 [Thermal Red-Zone Detection and Alerting System](https://github.com/RajKumaar123/Thermal-Video-Red-Zone-Detection-and-Alerting-System)  
+A computer vision-based alert system to detect heat spikes in thermal or surveillance videos using OpenCV. Designed for industrial safety and anomaly detection with real-time alert logging and visualization.
 
-### 🔹 SmartLendXAI-AI Powered Lending Decisions for Early Stage Retailers
-ML-based loan recommendation system targeting retailers with 2–3 years of business history. Utilized multiple machine learning models to evaluate credit profiles, sales behavior, and eligibility criteria. Integrated Explainable AI (XAI) techniques to provide transparent, data-backed lending decisions — improving approval accuracy and reducing default risks.
+### 🔹 [SmartLendXAI – AI-Powered Lending for Early-Stage Retailers](https://github.com/RajKumaar123/SmartLendXAI-AI-Powered-Lending-Decisions-for-Early-Stage-Retailers)  
+Developed a personalized ML-based lending solution for early-stage retailers with 2–3 years of business history. Utilized multiple models to evaluate creditworthiness and integrated Explainable AI (XAI) for transparent, data-driven decision-making. Improved loan approval accuracy while reducing default risks.
+
 
 ### 🔹 OCR Automation for Finance
 Improved invoice/cheque OCR pipeline using DL for handwritten and printed text — reduced manual processing by 25%.
