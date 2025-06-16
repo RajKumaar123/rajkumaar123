@@ -88,12 +88,15 @@ A computer vision-based alert system to detect heat spikes in thermal or surveil
 ### 🔹 [SmartLendXAI – AI-Powered Lending for Early-Stage Retailers](https://github.com/RajKumaar123/SmartLendXAI-AI-Powered-Lending-Decisions-for-Early-Stage-Retailers)  
 Developed a personalized ML-based lending solution for early-stage retailers with 2–3 years of business history. Utilized multiple models to evaluate creditworthiness and integrated Explainable AI (XAI) for transparent, data-driven decision-making. Improved loan approval accuracy while reducing default risks.
 
+### 🔹 [Angika Low Resource Translator](https://github.com/RajKumaar123/Angika-LowResource-Translator)  
+Developed a neural machine translation (NMT) model to translate Angika—an endangered Indian language—into English. Used an encoder-decoder LSTM architecture in TensorFlow Keras. Aimed at preserving linguistic heritage and enabling accessibility for low-resource languages. Supports cultural conservation through AI-driven translation.
+
+### 🔹 Multilingual Content Generation (Angika GPT)
+Developed a fine-tuned LLM for Angika (low-resource language). Enabled translation and content generation to support linguistic inclusivity.
 
 ### 🔹 OCR Automation for Finance
 Improved invoice/cheque OCR pipeline using DL for handwritten and printed text — reduced manual processing by 25%.
 
-### 🔹 Multilingual Content Generation (Angika GPT)
-Developed a fine-tuned LLM for Angika (low-resource language). Enabled translation and content generation to support linguistic inclusivity.
 
 ### 🔹 Real-Time Anomaly Monitoring Dashboard
 Built a predictive alert dashboard with real-time updates, anomaly detection, and visual trends — cut incident response time by 30%.
