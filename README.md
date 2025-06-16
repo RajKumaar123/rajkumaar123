@@ -122,11 +122,11 @@ ML model predicting story points, impacted components, and risk levels using his
 ### 🔹 Smart Invoice Query Assistant (RAG + LangChain)
 Real-time assistant using LangChain + RAG for invoice-related queries. Integrated document loaders, chunking, embeddings, and vector search for fast, human-like responses. Included intent detection and adaptive learning.
 
-### 🔹 Thermal Red-Zone Detection
-Vision-based anomaly detector for surveillance and industrial safety. Used OpenCV to detect heat intensity zones in frames, logging alerts with visualization overlays.
+### 🔹 Thermal Video Red Zone Detection and Alerting System
+A computer vision-based alert system that analyzes thermal or surveillance videos to detect unusually high heat zones. The solution tracks red intensity, marks critical areas, logs alert times, and visualizes trends to support early detection of potential fire or hazard events. Designed for industrial safety, environmental monitoring, and operational risk reduction. Also created a script to simulate synthetic thermal images for testing.
 
-### 🔹 Retail Loan Recommendation Engine
-Built a personalized product recommendation model for small retailers based on sales behavior, credit score, and risk profile.
+### 🔹 SmartLendXAI-AI-Powered-Lending-Decisions-for-Early-Stage-Retailers
+ML-based loan recommendation system targeting retailers with 2–3 years of business history. Utilized multiple machine learning models to evaluate credit profiles, sales behavior, and eligibility criteria. Integrated Explainable AI (XAI) techniques to provide transparent, data-backed lending decisions — improving approval accuracy and reducing default risks.
 
 ### 🔹 OCR Automation for Finance
 Improved invoice/cheque OCR pipeline using DL for handwritten and printed text — reduced manual processing by 25%.
