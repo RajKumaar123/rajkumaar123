@@ -125,7 +125,7 @@ Real-time assistant using LangChain + RAG for invoice-related queries. Integrate
 ### 🔹 Thermal Video Red Zone Detection and Alerting System
 A computer vision-based alert system that analyzes thermal or surveillance videos to detect unusually high heat zones. The solution tracks red intensity, marks critical areas, logs alert times, and visualizes trends to support early detection of potential fire or hazard events. Designed for industrial safety, environmental monitoring, and operational risk reduction. Also created a script to simulate synthetic thermal images for testing.
 
-### 🔹 SmartLendXAI-AI-Powered-Lending-Decisions-for-Early-Stage-Retailers
+### 🔹 SmartLendXAI-AI Powered Lending Decisions for Early Stage Retailers
 ML-based loan recommendation system targeting retailers with 2–3 years of business history. Utilized multiple machine learning models to evaluate credit profiles, sales behavior, and eligibility criteria. Integrated Explainable AI (XAI) techniques to provide transparent, data-backed lending decisions — improving approval accuracy and reducing default risks.
 
 ### 🔹 OCR Automation for Finance
@@ -137,8 +137,6 @@ Developed a fine-tuned LLM for Angika (low-resource language). Enabled translati
 ### 🔹 Real-Time Anomaly Monitoring Dashboard
 Built a predictive alert dashboard with real-time updates, anomaly detection, and visual trends — cut incident response time by 30%.
 
-**Tech Stack:** Python, LangChain, RAG, Hugging Face Transformers, OpenCV, Tesseract OCR, Flask, scikit-learn, SQL, JIRA API, FAISS, Pinecone
-
 ---
 
 ## 📚 Research Papers & Presentations
@@ -147,7 +145,7 @@ Built a predictive alert dashboard with real-time updates, anomaly detection, an
 - 🌐 *NMT for Endangered Languages (Angika)* – IIT Patna, 2023  
 - 💊 *Generative AI for Drug Recommendations* – SHADG 2024 (IIT Kharagpur)  
 - 📊 *LLMs & DPT Models for Sentiment Analysis* – NIT Patna 2024  
-- 🔐 *Facial Image Encryption with DCGANs* – M.Tech Project, IIT Jodhpur
+- 🔐 *Facial Image Encryption with DCGANs* – M.Tech Project, IIT Jodhpur 2023
 
 ---
 
