@@ -1,124 +1,163 @@
 # 👋 Hello, I'm Raj Kumar
 
-🎯 AI/ML Engineer | NLP & Generative AI Specialist | BFSI Domain Expert  
-🔍 Passionate about solving real-world problems using LLMs, Vision Models, and Data Science  
+🎯 AI/ML Engineer | LLM & Generative AI Specialist | Engineering Manager  
+🔍 Building real-world solutions with Deep Learning, NLP, and Computer Vision  
 🌐 [LinkedIn](https://www.linkedin.com/in/rajkumaar123/) | 📧 er.rajkumaar@gmail.com
 
 ---
 
 ## 🧠 Professional Summary – AI/ML, LLMs, and Generative AI
 
-Experienced **AI/ML Developer & Engineering Manager** with 14+ years in the **BFSI domain** and 6+ years in Artificial Intelligence, Machine Learning, and NLP. I specialize in delivering scalable, secure, and enterprise-grade AI solutions — transforming legacy systems and enabling digital innovation across global financial institutions like **Walgreens, Lloyds, Halifax, BOS, TSB, and RBS/NatWest**.
+Engineering Manager & AI/ML Developer with 14+ years of experience in banking, analytics, and enterprise-grade automation. I’ve spent the last 6+ years solving real-world problems using deep learning, LLMs, and computer vision — from smart document QA and chatbot systems to secure image generation and anomaly detection.
+
+Specialized in building explainable, ethical, and inclusive AI systems with a strong focus on NLP for low-resource Indian languages and scalable deployment using open-source tools.
 
 ---
 
 ### 🔹 Core Competencies
 
-- 🤖 **LLMs & Text-Based Generative AI**  
-  - Fine-tuning and prompt engineering with **GPT, BERT, and custom transformer models**  
-  - End-to-end chatbot development using Hugging Face, RAG pipelines, and **LangChain**  
-  - Document-based QA systems, translation engines for low-resource Indian languages (e.g., **Angika GPT**)  
-  - Retrieval-Augmented Generation (**RAG**) pipelines using **FAISS, Pinecone**, and custom embeddings
+- 🤖 **LLMs & Text-Based Generative AI**
+  - End-to-end chatbot development using Hugging Face Transformers and LangChain
+  - Fine-tuning of transformer models (GPT, BERT, custom LLMs) for semantic search, document QA, and summarization
+  - Retrieval-Augmented Generation (RAG) using LangChain, FAISS, Pinecone, and custom embedding pipelines
+  - Prompt engineering for zero-shot and instruction-based LLM tasks
+  - Developed multilingual and low-resource LLMs (e.g., Angika GPT) for regional translation and content generation
+  - Integrated LLM APIs with FastAPI/Flask for scalable deployment in production environments
 
-- 📚 **Natural Language Processing (NLP)**  
-  - Named Entity Recognition (NER), Semantic Search, Sentiment Analysis, Text Classification  
-  - Multilingual and bilingual NLP with transformer-based models
 
-- 📈 **Machine Learning & Time-Series Forecasting**  
-  - ARIMA, XGBoost, LSTM for resource optimization, forecasting, and intelligent automation  
-  - Scikit-learn, PyTorch, model tuning, and bias mitigation with Explainable AI tools (**SHAP, LIME**)
+- 📚 **Natural Language Processing (NLP)**
+  - Named Entity Recognition (NER), Sentiment Analysis, Semantic Search, Text Classification
+  - Translation systems for low-resource Indian languages using custom transformer models
+  - Multilingual and bilingual NLP pipelines supporting domain-specific content generation
+  - Fine-tuning transformer architectures (e.g., BERT, MarianMT) for translation, QA, and summarization
+  - Built instruction-based LLMs and regional models like Angika GPT for real-time, human-like interactions
+  - NLP pipelines using Hugging Face Transformers, spaCy, NLTK, and custom tokenizers
 
-- ⚙️ **Deployment & MLOps**  
-  - Building modular pipelines and RESTful APIs using **Flask, FastAPI, Streamlit**  
-  - Secure model packaging and deployment using Pickle, Hugging Face Hub
+
+- 📈 **Machine Learning & Forecasting**
+  - Built models for time-series forecasting, resource planning, and risk prediction using ARIMA, XGBoost, and LSTM
+  - Applied advanced feature engineering, hyperparameter tuning, and ensemble techniques to improve model accuracy
+  - Leveraged scikit-learn, PyTorch, and custom ML pipelines for end-to-end automation and deployment
+  - Integrated Explainable AI (XAI) methods using SHAP and LIME for interpretability, feature importance, and bias mitigation
+  - Focused on model fairness, compliance, and transparent decision-making for high-stakes financial and operational systems
+
+
+- ⚙️ **Deployment & MLOps**
+  - Built modular REST APIs using Flask, FastAPI, and Streamlit for real-time model inference
+  - Packaged and served models using Pickle, Hugging Face Hub, and custom Python scripts
+  - Automated deployment pipelines with Git, GitHub, and GitLab for version control and reproducibility
+  - Designed secure, scalable model workflows for on-premise and cloud-agnostic environments
 
 ---
 
 ### 🔹 Advanced Computer Vision & Generative AI
 
-- 🧠 **CV & Detection**:  
-  - Object Detection using YOLO and SAM  
-  - OCR-based invoice/cheque automation  
-  - Image annotation, segmentation, and anomaly detection in surveillance
+- 🧠 **Computer Vision & Detection**  
+  - Object detection and segmentation using **YOLO**, **SAM (Segment Anything Model)**, and **SegFormer**  
+  - OCR-based invoice and cheque automation using **OpenCV** and **Tesseract**  
+  - Image annotation, edge detection, and anomaly tracking in surveillance and industrial systems  
+  - Used **Florence (LVM)** and traditional pipelines to build interpretable, scalable CV solutions
 
-- 🎨 **Generative AI**:  
-  - **Text-to-Image**, **Image-to-Image**, **Image-to-Video** pipelines using **Diffusion Models**, **DCGANs**, and **ControlNet**  
-  - Image security using adversarial GAN training (project from M.Tech at IIT Jodhpur)  
-  - Experimentation with **Large Vision Models (LVMs)** like Florence, SegFormer
+- 🎨 **Generative AI for Visual Intelligence**  
+  - Built multimodal generation workflows: **Text-to-Image**, **Image-to-Image**, **Image-to-Video** using **Diffusion Models**, **ControlNet**, and **DCGANs**  
+  - Developed secure face encryption pipeline using **GAN-based adversarial training** (M.Tech research)  
+  - Applied **OpenCV** for frame-wise image processing, red-zone tracking, and heat map generation  
+  - Ongoing experimentation with **Large Vision Models (LVMs)** for intelligent perception, medical imaging, and design automation
+
 
 ---
 
 ## 🛠️ Key Skills & Expertise
 
 ### 🤖 AI/ML & Deep Learning
-- Supervised & Unsupervised Learning, Predictive Modeling, Time Series Forecasting  
-- Neural Networks, CNNs, RNNs, LSTMs, Transformers, Transfer Learning  
-- GANs, Diffusion Models, Computer Vision using OpenCV, Florence, Segment Anything  
-- Explainable AI (XAI): SHAP, LIME, model interpretability, fairness & transparency  
-- Model Optimization, Performance Tuning, Bias Mitigation  
-- Ensemble Methods: Random Forest, Gradient Boosting, Stacking, Bagging  
-- Anomaly Detection, Clustering (K-Means, DBSCAN), Feature Engineering, PCA, t-SNE
+- Supervised/Unsupervised Learning, Predictive Modeling, Time Series Forecasting  
+- CNNs, RNNs, Transformers, Transfer Learning, Diffusion, GANs  
+- SHAP, LIME for Explainable AI  
+- Random Forest, Gradient Boosting, Stacking, Ensemble Techniques  
+- Anomaly Detection, K-Means, DBSCAN, PCA, t-SNE
 
-### 💬 Natural Language Processing & Prompt Engineering
-- Text Analytics, Chatbot Development, Sentiment Analysis, Named Entity Recognition (NER)  
-- Prompt Engineering for LLMs like GPT, BERT, and custom fine-tuned transformers  
-- Retrieval-Augmented Generation (RAG), Semantic Search  
-- Bilingual Corpora Development, Language Translation for low-resource Indian languages  
-- NLP pipelines using Hugging Face, spaCy, NLTK
+### 💬 NLP & Prompt Engineering
+- Chatbots, Sentiment Analysis, NER, Language Translation  
+- Prompt Engineering for LLMs (GPT, BERT, custom models)  
+- RAG pipelines with LangChain, vector DBs (FAISS/Pinecone)  
+- Hugging Face, spaCy, NLTK-based NLP pipelines
 
-### 🐍 Python Programming & Data Handling
-- Python (Pandas, NumPy, Scikit-learn, PyTorch, Keras, XGBoost, Flask)  
-- Data Analysis, Cleaning, and Transformation using standard Python libraries  
-- Structured data handling using SQL, MySQL, DB2  
-- Version Control: Git, GitHub | Model Deployment: Flask, Hugging Face Hub, Pickle
+### 🐍 Python & Data Handling
+- Python (Pandas, NumPy, PyTorch, Keras, XGBoost, Flask)  
+- SQL, MySQL, DB2 | Git & GitHub | Data cleaning & preprocessing  
+- Deployment using Flask, Hugging Face, Streamlit, Pickle
 
-### 📊 Data Science & Analytics
-- SQL, MySQL, DB2 — Complex queries, joins, procedures, and integration  
-- Statistical Modeling: Hypothesis Testing, Regression, A/B Testing  
-- Business Intelligence & Visualization: Matplotlib, Seaborn, Plotly, Power BI
+### 📊 Analytics & Visualization
+- Statistical Modeling: Hypothesis Testing, A/B Testing, Regression  
+- Plotting & Dashboards: Matplotlib, Seaborn, Plotly, Power BI
 
 ### 🎨 Generative AI & Automation
-- Generative Models: GANs, Diffusion Models, DCGANs, ControlNet  
-- Document Understanding Systems: OCR + NLP  
-- Workflow Optimization & Real-time Automation using AI pipelines
+- GANs, Diffusion Models, OCR + NLP document pipelines  
+- AI-driven workflow automation
 
-### 🧑‍💼 Leadership & Delivery Management
-- Agile Project Management, Sprint Planning, JIRA, Confluence  
-- Cross-functional Team Leadership & Stakeholder Collaboration  
-- Certified Scrum Master – Led full-cycle AI/ML project delivery from PoC to production
+### 🧑‍💼 Leadership & Delivery
+- Agile, Scrum, JIRA, Confluence  
+- Sprint planning, roadmap building, stakeholder communication  
+- Mentoring engineers in AI/ML best practices
 
 ---
 
 ## 🎓 Education
 
-| Degree | College/University | Year | Grade |
-|--------|--------------------|------|-------|
+| Degree | Institution | Year | Grade |
+|--------|-------------|------|-------|
 | M. Tech (Data & Computational Science) | IIT Jodhpur | 2023 | 7.74 CGPA |
-| B. Tech (Computer Science & Engineering) | Rajasthan Technical University, Kota | 2010 | 68% |
-| 12th | BNS DAV Public School, Giridih | 2005 | 65.66% |
-| 10th | BNS DAV Public School, Giridih | 2003 | 75% |
+| B. Tech (CSE) | Rajasthan Technical University | 2010 | 68% |
+
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 AI/ML & NLP Project Portfolio
 
-### 🔹 Angika LLM – Chatbot for Indian Languages
-Fine-tuned a custom LLM using Hugging Face for low-resource language Angika. Enabled real-time instruction-based dialogue for educational and public service use cases.  
-**Tech:** Hugging Face Transformers, Prompt Engineering, RAG, Streamlit, Tokenizers
+Delivered enterprise-grade AI/ML solutions across banking, finance, and language tech using LLMs, Computer Vision, and Deep Learning.
 
-### 🔹 Thermal Vision Alert System
-Analyzed surveillance footage frame-by-frame using OpenCV to detect red zones in thermal imaging. Added real-time alerts and visual dashboards for anomaly tracking.  
-**Tech:** OpenCV, NumPy, Image Processing, Heatmaps, Anomaly Detection
+### 🔹 JIRA Estimation & Risk Prediction
+ML model predicting story points, impacted components, and risk levels using historical JIRA data and NLP — improved sprint planning by 20%.
+
+### 🔹 Smart Invoice Query Assistant (RAG + LangChain)
+Real-time assistant using LangChain + RAG for invoice-related queries. Integrated document loaders, chunking, embeddings, and vector search for fast, human-like responses. Included intent detection and adaptive learning.
+
+### 🔹 Thermal Red-Zone Detection
+Vision-based anomaly detector for surveillance and industrial safety. Used OpenCV to detect heat intensity zones in frames, logging alerts with visualization overlays.
+
+### 🔹 Retail Loan Recommendation Engine
+Built a personalized product recommendation model for small retailers based on sales behavior, credit score, and risk profile.
+
+### 🔹 OCR Automation for Finance
+Improved invoice/cheque OCR pipeline using DL for handwritten and printed text — reduced manual processing by 25%.
+
+### 🔹 Multilingual Content Generation (Angika GPT)
+Developed a fine-tuned LLM for Angika (low-resource language). Enabled translation and content generation to support linguistic inclusivity.
+
+### 🔹 Real-Time Anomaly Monitoring Dashboard
+Built a predictive alert dashboard with real-time updates, anomaly detection, and visual trends — cut incident response time by 30%.
+
+**Tech Stack:** Python, LangChain, RAG, Hugging Face Transformers, OpenCV, Tesseract OCR, Flask, scikit-learn, SQL, JIRA API, FAISS, Pinecone
 
 ---
 
-## 📚 Research & Conference Papers
+## 📚 Research Papers & Presentations
 
-- 🧠 **Explainable AI for Financial Sentiment Analysis** – ICIEM 2023  
-- 🌍 **Angika Language Translation with NMT** – IIT Patna 2023  
-- 💊 **Generative AI in Healthcare** – SHADG 2024 (IIT Kharagpur)  
-- 😃 **Face Encryption with DCGANs** – Major Project at IIT Jodhpur  
-- 📊 **Sentiment Classification with LLMs** – NIT Patna 2024
+- 🧠 *Explainable Sentiment Analysis for Financial News* – ICIEM 2023  
+- 🌐 *NMT for Endangered Languages (Angika)* – IIT Patna, 2023  
+- 💊 *Generative AI for Drug Recommendations* – SHADG 2024 (IIT Kharagpur)  
+- 📊 *LLMs & DPT Models for Sentiment Analysis* – NIT Patna 2024  
+- 🔐 *Facial Image Encryption with DCGANs* – M.Tech Project, IIT Jodhpur
+
+---
+
+## 🧑‍💼 Leadership Snapshot
+
+- Led cross-functional AI/ML teams across geographies for complex delivery programs  
+- Acted as Agile Scrum Master — driving velocity, alignment, and outcomes  
+- Mentored early-career engineers in Python, ML, NLP, and deployment workflows  
+- Modernized legacy platforms by embedding AI/ML pipelines  
+- Defined roadmaps and aligned data science goals to business strategies
 
 ---
 
@@ -126,7 +165,7 @@ Analyzed surveillance footage frame-by-frame using OpenCV to detect red zones in
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rajkumaar123/)  
 - 📧 Email: er.rajkumaar@gmail.com  
-- 💼 Resume: *(Available upon request)*
+- 📝 Resume: *(Available on request)*
 
 ---
 
