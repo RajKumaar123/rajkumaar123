@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Raj Kumar
 
-🎯 AI/ML Engineer | LLM & Generative AI Specialist | Engineering Manager  
+🎯 AI/ML Engineer | LLM & Generative AI Specialist  
 🔍 Building real-world solutions with Deep Learning, NLP, and Computer Vision  
 🌐 [LinkedIn](https://www.linkedin.com/in/rajkumaar123/) | 📧 er.rajkumaar@gmail.com
 
@@ -8,7 +8,7 @@
 
 ## 🧠 Professional Summary – AI/ML, LLMs, and Generative AI
 
-Engineering Manager & AI/ML Developer with 14+ years of experience in banking, analytics, and enterprise-grade automation. I’ve spent the last 6+ years solving real-world problems using deep learning, LLMs, and computer vision — from smart document QA and chatbot systems to secure image generation and anomaly detection.
+AI/ML Engineer with 14+ years of experience in banking, analytics, and enterprise-grade automation. I’ve spent the last 6+ years solving real-world problems using deep learning, LLMs, and computer vision — from smart document QA and chatbot systems to secure image generation and anomaly detection.
 
 Specialized in building explainable, ethical, and inclusive AI systems with a strong focus on NLP for low-resource Indian languages and scalable deployment using open-source tools.
 
