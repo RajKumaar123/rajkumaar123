@@ -82,11 +82,6 @@ Specialized in building explainable, ethical, and inclusive AI systems with a st
 
 Delivered enterprise-grade AI/ML solutions across banking, finance, and language tech using LLMs, Computer Vision, and Deep Learning.
 
-### 🔹 JIRA Estimation & Risk Prediction
-ML model predicting story points, impacted components, and risk levels using historical JIRA data and NLP — improved sprint planning by 20%.
-
-### 🔹 Smart Invoice Query Assistant (RAG + LangChain)
-Real-time assistant using LangChain + RAG for invoice-related queries. Integrated document loaders, chunking, embeddings, and vector search for fast, human-like responses. Included intent detection and adaptive learning.
 
 ### 🔹 [Thermal Red-Zone Detection and Alerting System](https://github.com/RajKumaar123/Thermal-Video-Red-Zone-Detection-and-Alerting-System)  
 A computer vision-based alert system to detect heat spikes in thermal or surveillance videos using OpenCV. Designed for industrial safety and anomaly detection with real-time alert logging and visualization.
@@ -103,6 +98,11 @@ Developed a neural machine translation (NMT) model to translate Angika—an enda
 ### 🔹 Multilingual Content Generation (Angika GPT)
 Developed a fine-tuned LLM for Angika (low-resource language). Enabled translation and content generation to support linguistic inclusivity.
 
+### 🔹 JIRA Estimation & Risk Prediction
+ML model predicting story points, impacted components, and risk levels using historical JIRA data and NLP — improved sprint planning by 20%.
+
+### 🔹 Smart Invoice Query Assistant (RAG + LangChain)
+Real-time assistant using LangChain + RAG for invoice-related queries. Integrated document loaders, chunking, embeddings, and vector search for fast, human-like responses. Included intent detection and adaptive learning.
 ### 🔹 OCR Automation for Finance
 Improved invoice/cheque OCR pipeline using DL for handwritten and printed text — reduced manual processing by 25%.
 
