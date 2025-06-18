@@ -62,13 +62,20 @@ Specialized in building explainable, ethical, and inclusive AI systems with a st
 
 ---
 
+## 📜 Certifications
+
+- **Certified SAFe® Scrum Master**  
+  **Issued by** Scaled Agile, Inc. | **Issued** March 2025  
+  **Credential ID:** `48725598-4060`
+
+  ---
+
 ## 🎓 Education
 
 | Degree | Institution | Year | Grade |
 |--------|-------------|------|-------|
 | M. Tech (Data & Computational Science) | IIT Jodhpur | 2023 | 7.74 CGPA |
 | B. Tech (CSE) | Rajasthan Technical University | 2010 | 68% |
-
 
 ---
 
@@ -123,14 +130,6 @@ Built a predictive alert dashboard with real-time updates, anomaly detection, an
 - Mentored early-career engineers in Python, ML, NLP, and deployment workflows  
 - Modernized legacy platforms by embedding AI/ML pipelines  
 - Defined roadmaps and aligned data science goals to business strategies
-
----
-
-## 📜 Certifications
-
-- **Certified SAFe® Scrum Master**  
-  **Issued by** Scaled Agile, Inc. | **Issued** March 2025  
-  **Credential ID:** `48725598-4060`
 
 ---
 
