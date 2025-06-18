@@ -59,7 +59,6 @@ Specialized in building explainable, ethical, and inclusive AI systems with a st
   - Mentored engineers on Python, ML, NLP, and deployment standards
   - Translating business goals into scalable and interpretable AI solutions
 
-
 ---
 
 ## 📜 Certifications
@@ -68,7 +67,7 @@ Specialized in building explainable, ethical, and inclusive AI systems with a st
   **Issued by** Scaled Agile, Inc. | **Issued** March 2025  
   **Credential ID:** `48725598-4060`
 
-  ---
+---
 
 ## 🎓 Education
 
