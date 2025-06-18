@@ -125,6 +125,15 @@ Built a predictive alert dashboard with real-time updates, anomaly detection, an
 - Defined roadmaps and aligned data science goals to business strategies
 
 ---
+---
+
+## 📜 Certifications
+
+- **Certified SAFe® Scrum Master**  
+  *Issued by Scaled Agile, Inc. | March 2025*  
+  Credential ID: `48725598-4060`
+
+---
 
 
 
