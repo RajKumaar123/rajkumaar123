@@ -130,8 +130,8 @@ Built a predictive alert dashboard with real-time updates, anomaly detection, an
 ## 📜 Certifications
 
 - **Certified SAFe® Scrum Master**  
-  *Issued by Scaled Agile, Inc. | March 2025*  
-  Credential ID: `48725598-4060`
+  **Issued by** Scaled Agile, Inc. | Issued March 2025 
+  **Credential ID:** `48725598-4060`
 
 ---
 
