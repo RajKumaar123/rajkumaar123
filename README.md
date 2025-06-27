@@ -89,6 +89,9 @@ A computer vision-based alert system to detect heat spikes in thermal or surveil
 ### 🔹 [Video Data Processing with Python and OpenCV](https://github.com/RajKumaar123/Video-Data-Processing-with-Python-and-OpenCV)  
 A modular computer vision pipeline that reads driving scene videos and overlays category-specific annotations (bounding boxes and labels) from CSV files. Built using OpenCV and Python for rapid prototyping, visual validation, and AI model support in video analytics workflows.
 
+### 🔹 [RoadRadar: Real-Time Speed Detection System](https://github.com/RajKumaar123/RoadRadar-Real-Time-Speed-Detection-System)  
+A computer vision project that detects vehicles, estimates speed, flags over-speeding, and generates alert frames — built with YOLOv8, OpenCV, and Jupyter.
+
 ### 🔹 [SmartLendXAI – AI-Powered Lending for Early-Stage Retailers](https://github.com/RajKumaar123/SmartLendXAI-AI-Powered-Lending-Decisions-for-Early-Stage-Retailers)  
 Developed a personalized ML-based lending solution for early-stage retailers with 2–3 years of business history. Utilized multiple models to evaluate creditworthiness and integrated Explainable AI (XAI) for transparent, data-driven decision-making. Improved loan approval accuracy while reducing default risks.
 
