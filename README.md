@@ -99,7 +99,7 @@ Developed a personalized ML-based lending solution for early-stage retailers wit
 Developed a neural machine translation (NMT) model to translate Angika—an endangered Indian language—into English. Used an encoder-decoder LSTM architecture in TensorFlow Keras. Aimed at preserving linguistic heritage and enabling accessibility for low-resource languages. Supports cultural conservation through AI-driven translation.
 
 ### 🔹 Multilingual Content Generation (Angika GPT)
-Developed a fine-tuned LLM for Angika (low-resource language). Enabled translation and content generation to support linguistic inclusivity.
+Leveraging my expertise in Natural Language Processing and Generative AI, I spearheaded the development of Angika GPT, (www.angikaGPT.com) a custom Language Model designed to address the challenges of low-resource language translation and content generation, with a particular focus on Angika. This initiative involved utilizing Hugging Face Transformers to build and fine-tune a specialized LLM, actively contributing to digital preservation efforts by enabling content creation and translation in Angika. My role encompassed all aspects of the project, from model selection and training to performance evaluation and optimization, ultimately fostering the development of inclusive language technology and promoting multilingual NLP capabilities.
 
 ### 🔹 JIRA Estimation & Risk Prediction
 ML model predicting story points, impacted components, and risk levels using historical JIRA data and NLP — improved sprint planning by 20%.
