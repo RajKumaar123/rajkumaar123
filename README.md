@@ -82,6 +82,8 @@ Specialized in building explainable, ethical, and inclusive AI systems with a st
 
 Delivered enterprise-grade AI/ML solutions across banking, finance, and language tech using LLMs, Computer Vision, and Deep Learning.
 
+### 🔹 [LangChain-RAG-Flask](https://github.com/RajKumaar123/langchain-rag-flask)  
+Flask + LangChain powered **RAG chatbot** with multi-doc upload, image-aware retrieval, session memory, and a clean Markdown chat UI using ChromaDB and Gemini.
 
 ### 🔹 [Thermal Red-Zone Detection and Alerting System](https://github.com/RajKumaar123/Thermal-Video-Red-Zone-Detection-and-Alerting-System)  
 A computer vision-based alert system to detect heat spikes in thermal or surveillance videos using OpenCV. Designed for industrial safety and anomaly detection with real-time alert logging and visualization.
