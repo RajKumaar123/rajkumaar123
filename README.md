@@ -3,9 +3,7 @@
 🎯 AI/ML Engineer | LLM & Generative AI Specialist  
 🔍 Building real-world solutions with Deep Learning, NLP, and Computer Vision  
 
-🌐 [LinkedIn](https://www.linkedin.com/in/rajkumaar123/)  
-✍️ [Medium](https://medium.com/@er.rajkumaar)  
-📧 er.rajkumaar@gmail.com
+🌐 [LinkedIn](https://www.linkedin.com/in/rajkumaar123/) | ✍️ [Medium](https://medium.com/@er.rajkumaar)  | 📧 er.rajkumaar@gmail.com
 
 
 ---
